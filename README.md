@@ -23,10 +23,10 @@ Ejemplo de uso:
 ```python
 conversor.metros_a_centimetros(10)  # 10 metros son 1000 centimetros
 ```
-<img src="img/image.png">
+<img src="img/image.png"></img>
 
 ```python
 conversor.centimetros_a_kilometros(100000)  # 100000 centimetros son 1 kilometro
 
 ```
-<img src="img/image2.png">
+<img src="img/image2.png"></img>
